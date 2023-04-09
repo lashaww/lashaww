@@ -2,10 +2,6 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/lashaww/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/lashaww/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/lashaww/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine on Azure](https://github.com/lashaww/virtual-machine)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/lashaww/azure-network-protocols)
