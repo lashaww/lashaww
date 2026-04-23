@@ -7,7 +7,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/lashaww/azure-network-protocols)
  
 - <b>Microsoft Azure Entra ID</b>
-  - [Creating User's in Entra ID]()
+  - [Creating User's in Entra ID](https://github.com/lashaww/user-accounts)
   - [Cloud Provisioning - P2 Licensing]()
   - [Role Assignments]()
   - [Group Assignments]()
