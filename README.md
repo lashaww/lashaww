@@ -12,7 +12,7 @@
   - [Role Assignments](https://github.com/lashaww/role-assignments)
   - [Group Assignments](https://github.com/lashaww/group-assignments)
   - [Identity Lifecycle](https://github.com/lashaww/identity-lifecycle)
-  - [Audit Logs]()
+  - [Audit Logs](https://github.com/lashaww/audit-logs)
   - [Sign-In Logs]()
   - [Authentication](https://github.com/lashaww/authentication)
 
