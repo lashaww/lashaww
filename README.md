@@ -9,7 +9,7 @@
 - <b>Microsoft Azure Entra ID</b>
   - [Creating User's in Entra ID](https://github.com/lashaww/user-accounts)
   - [Cloud Provisioning - P2 Licensing](https://github.com/lashaww/p2-licensing-)
-  - [Role Assignments]()
+  - [Role Assignments](https://github.com/lashaww/role-assignments)
   - [Group Assignments](https://github.com/lashaww/group-assignments)
   - [Identity Lifecycle]()
   - [Audit Logs]()
