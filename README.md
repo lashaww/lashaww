@@ -23,7 +23,7 @@
   - [Completed user enrollment and provisioning after importing accounts from Microsoft Entra ID into Okta. Since imported users are initially inactive, completed the activation process by setting temporary passwords, logging in as users, completed enrollment requirements, and verified that accounts are fully functional and ready for use within the Okta environment.]
     
 - <b>Creating Users in Okta Manually</b>
-  - [Created two new users, configured their basic profile information, and became familiar with the user creation process commonly used by IAM administrators when onboarding new employees or contractors.]
+  - [Created two new users, configured their basic profile information, and became familiar with the user creation process commonly used by IAM administrators when onboarding new employees or contractors.] (https://github.com/lashaww/Create-Users-Manually-In-Okta/blob/main/README.md)
     
 
 - <b>Add Attributes to User Profiles</b>
