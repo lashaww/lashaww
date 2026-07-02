@@ -30,7 +30,7 @@
   - [Created groups within the Okta environment to organize users and manage access more efficiently.](https://github.com/lashaww/Create-Groups-Okta/blob/main/README.md)
 
 - <b>Attribute-Based Access Control (ABAC) Rules</b>
-  - [Created group rules in Okta using user attributes to automatically assign users to the appropriate groups.]
+  - [Created group rules in Okta using user attributes to automatically assign users to the appropriate groups.](https://github.com/lashaww/Attribute-Based-Access-Control/blob/main/README.md)
 
 - <b>Device Management in Okta</b>
   - [Viewed registered administrators device to see how Okta manage's trusted devices within an organization's identity and access management strategy.]
