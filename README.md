@@ -20,20 +20,20 @@
 <b>Okta Administration</b>
 
 - <b>Creating Users in Okta Manually</b>
-  - [Created two new users, configured their basic profile information, and became familiar with the user creation process commonly used by IAM administrators when onboarding new employees or contractors.](https://github.com/lashaww/Create-Users-Manually-In-Okta/blob/main/README.md)
+  - [Created two new users, configured their basic profile information, and became familiar with the user creation process commonly used by IAM administrators when onboarding new employees or contractors.](https://github.com/lashaww/Create-Users-Manually-In-Okta)
     
 
 - <b>Add Attributes to User Profiles</b>
-  - [Added and managed user attributes within Okta profiles. Updated user records with additional identity information, helping to prepare accounts for automated group assignments, access decisions, and attribute-based administration within the Okta environment.](https://github.com/lashaww/Add-Attributes-To-Profiles-Okta/blob/main/README.md)
+  - [Added and managed user attributes within Okta profiles. Updated user records with additional identity information, helping to prepare accounts for automated group assignments, access decisions, and attribute-based administration within the Okta environment.](https://github.com/lashaww/Add-Attributes-To-Profiles-Okta)
 
 - <b>Creating Groups in Okta Environment</b>
-  - [Created groups within the Okta environment to organize users and manage access more efficiently.](https://github.com/lashaww/Create-Groups-Okta/blob/main/README.md)
+  - [Created groups within the Okta environment to organize users and manage access more efficiently.](https://github.com/lashaww/Create-Groups-Okta)
 
 - <b>Attribute-Based Access Control (ABAC) Rules</b>
-  - [Created group rules in Okta using user attributes to automatically assign users to the appropriate groups.](https://github.com/lashaww/Attribute-Based-Access-Control/blob/main/README.md)
+  - [Created group rules in Okta using user attributes to automatically assign users to the appropriate groups.](https://github.com/lashaww/Attribute-Based-Access-Control)
 
 - <b>Device Management in Okta</b>
-  - [Viewed registered administrators device to see how Okta manage's trusted devices within an organization's identity and access management strategy.]
+  - [Viewed registered administrators device to see how Okta manage's trusted devices within an organization's identity and access management strategy.](https://github.com/lashaww/Device-Management-Okta)
 
 - <b>Audit Logs in Okta</b>
   - [Reviewed the Okta audit logs and reviewed administrative activity performed within the environment. This provided me the visibility into my administrator actions, to monitor account activity, investigate issues, and maintain compliance.]
