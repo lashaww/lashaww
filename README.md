@@ -1,6 +1,6 @@
  - <h1>Hi, I'm LaShawn, an IT professional </a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>Identity and Access Management:</h2>
 
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine on Azure](https://github.com/lashaww/virtual-machine)
@@ -15,6 +15,34 @@
   - [Audit Logs](https://github.com/lashaww/audit-logs)
   - [Sign-In Logs]()
   - [Authentication](https://github.com/lashaww/authentication)
+
+
+<b>Okta Administration</b>
+
+- <b>Enrollment Provisioning in Okta</b> 
+  - [Completed user enrollment and provisioning after importing accounts from Microsoft Entra ID into Okta. Since imported users are initially inactive, completed the activation process by setting temporary passwords, logging in as users, completed enrollment requirements, and verified that accounts are fully functional and ready for use within the Okta environment.]
+    
+- <b>Creating Users in Okta Manually</b>
+  - [Created two new users, configured their basic profile information, and became familiar with the user creation process commonly used by IAM administrators when onboarding new employees or contractors.]
+    
+
+- <b>Add Attributes to User Profiles</b>
+  - [Added and managed user attributes within Okta profiles. Updated user records with additional identity information, helping to prepare accounts for automated group assignments, access decisions, and attribute-based administration within the Okta environment.]
+
+- <b>Creating Groups in Okta Environment</b>
+  - [Created groups within the Okta environment to organize users and manage access more efficiently.]
+
+- <b>Attribute-Based Access Control (ABAC) Rules</b>
+  - [Created group rules in Okta using user attributes to automatically assign users to the appropriate groups.]
+
+- <b>Device Management in Okta</b>
+  - [Viewed registered administrators device to see how Okta manage's trusted devices within an organization's identity and access management strategy.]
+
+- <b>Audit Logs in Okta</b>
+  - [Reviewed the Okta audit logs and reviewed administrative activity performed within the environment. This provided me the visibility into my administrator actions, to monitor account activity, investigate issues, and maintain compliance.]
+
+- <b>PowerShell</b>
+  - [Inserted some basic commands, to filter and sort data, along with common administrative tasks that are used in IAM.]
 
 <h2>🤳Connect with me:</h2>
 
