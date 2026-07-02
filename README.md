@@ -39,7 +39,7 @@
   - [Reviewed the Okta audit logs and reviewed administrative activity performed within the environment. This provided me the visibility into my administrator actions, to monitor account activity, investigate issues, and maintain compliance.](https://github.com/lashaww/Audit-Logs-Okta)
 
 - <b>PowerShell</b>
-  - [Inserted some basic commands, to filter and sort data, along with common administrative tasks that are used in IAM.]
+  - [Inserted some basic commands, to filter and sort data, along with common administrative tasks that are used in IAM.](https://github.com/lashaww/Powershell-Okta)
 
 <h2>🤳Connect with me:</h2>
 
