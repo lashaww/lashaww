@@ -13,7 +13,7 @@
   - [Group Assignments](https://github.com/lashaww/group-assignments)
   - [Identity Lifecycle](https://github.com/lashaww/identity-lifecycle)
   - [Audit Logs](https://github.com/lashaww/audit-logs)
-    - [Authentication](https://github.com/lashaww/authentication)
+  - [Authentication](https://github.com/lashaww/authentication)
 
 
 <b>Okta Administration</b>
