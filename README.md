@@ -3,7 +3,7 @@
 <h2>Identity and Access Management:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating a Virtual Machine on Azure](https://github.com/lashaww/virtual-machine) (https://github.com/lashaww/Creating-Virtual-Machines-in-Azure)
+  - [Creating a Virtual Machine on Azure](https://github.com/lashaww/virtual-machine)(https://github.com/lashaww/Creating-Virtual-Machines-in-Azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/lashaww/azure-network-protocols)
  
 - <b>Microsoft Azure Entra ID</b>
